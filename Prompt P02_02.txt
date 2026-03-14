@@ -1,0 +1,4 @@
+saya ingin dibuatkan sistem untuk mampu menentukan total stok hanya untuk kategori barang yang diminta.. Input:
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang. pola penyimpanannya itu 22pcs dasi sd 85 pcs gula,5pcs rok pramuka, 120 pcs minyak.Buatlah code menggunakan c99 atau c11 dengan compiler gcc yang dijalankan di windows serta menggunakan library sepeeti <stdio.h>yang sederhana,dan menggunakan 1 main fungsi saja ,dan tidak da lingkup khusus dalam pengerjaan program ini.juga tidak ada harapan atau batas value.lalu buatlah program yg sederhana dan mngikuti input output yg telah saya berikan lalu tidak perlu membuat komentar pada code.tetapi jika di run user akan mengerti akan menginput bagian mana 

@@ -1,0 +1,9 @@
+disini sya akan membuat program sistem penghitungan biaya pengiriman del express dimana terdapat 4 kode kota yaitu 1.MDN nama kota Medan ongkos / kg 8000 dan keterangan dalam pulau. 2.BLG nama kota Balige ongkos / kg 5000 dan keterangan dalam pulau. 3.JKT nama kota Jakarta ongkos / kg 12000 dan keterangan luar pulau.4.SBY nama kota Surabaya ongkos / kg 13000 dan keterangan luar pulau.namun sedang ada promo ongkir semasa lebaran dimana jika barang yg ingin dikirim lebih 10 kg maka akan mendapat diskon 10 prsen,dan jika pengiriman ke luar pulau akn mendpat asuransi gratis.lalu ucok dan butet ingin pulang kampung dan menimbang berat bvarang mereka dimana barang butet 1 kg dan barang ucon 3/2 kali berat paket butet.s Del-Express kemudian menjelaskan bahwa sistem pengiriman mereka bekerja secara otomatis. Petugas hanya perlu memasukkan kode kota tujuan serta berat paket milik Butet, dan sistem akan menghitung seluruh biaya pengiriman termasuk berat paket milik Ucok.Input
+
+MDN
+5
+JKT
+3
+BLG
+4
+END , Output Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh.Buatlah code menggunakan c99 atau c11 dengan compiler gcc yang dijalankan di windows serta menggunakan library sepeeti <stdio.h>yang sederhana,dan menggunakan 1 main fungsi saja ,dan tidak da lingkup khusus dalam pengerjaan program ini.juga tidak ada harapan atau batas value.lalu buatlah program yg sederhana dan mngikuti input output yg telah saya berikan lalu tidak perlu membuat komentar pada code.tetapi jika di run user akan mengerti akan menginput bagian mana 
